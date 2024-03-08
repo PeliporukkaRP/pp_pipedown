@@ -9,6 +9,7 @@ Pipedown FiveM MLO in Mirror Park. Upgraded version made by [EP](https://forum.c
 - Added lightshafts to front windows
 - Added backdoor
 - Rework propping
+- Audio Occlusions
 
 # Preview
 ![image](https://github.com/PeliporukkaRP/pp_pipedown/assets/15001445/044259b3-3297-4e15-8530-fec83d788d66)
